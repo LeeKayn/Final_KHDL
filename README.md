@@ -21,5 +21,4 @@ Let run :
 to see the best models as well as comments and reviews   
 and :  
 `ML Model Building for SmallDS_ftloc_with_outliers.ipynb`  
-  
-I'm Vietnamese, so I'll leave a review and comment in Vietnamese, because I love Vietnam
+
